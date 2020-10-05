@@ -7,3 +7,5 @@ the mail address entered by the user, giving notifications and password reset li
 This very basic mail assistant will help you understand how nodemailer works and how you can use it to send mails through your express server.
 
 In short I've given you the key, now open the treasure chest and create mail generating servers!!
+
+The CSS template that I used is from -> colorlib.com
